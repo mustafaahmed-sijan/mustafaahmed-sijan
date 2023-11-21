@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi 👋  ! This is Sijan
 #### I am passionate programmer 
-![I am passionate programmer ](https://www.pinterest.com/pin/1118440888690155101/)
+![I am passionate programmer ](https://i.pinimg.com/564x/5d/c6/78/5dc678cff627e0b973eff7abc6f33532.jpg)
 
 
 Skills: python/ C / C++ / Java
@@ -16,6 +16,4 @@ Skills: python/ C / C++ / Java
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaahmed-sijan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafaahmed-sijan&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mustafaahmed-sijan/contributions?format=svg&private=true)  
 
