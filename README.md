@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋  ! This is Sijan
+### Hi there 👋! This is Sijan
 #### I am passionate programmer 
 ![I am passionate programmer ](https://i.pinimg.com/564x/5d/c6/78/5dc678cff627e0b973eff7abc6f33532.jpg)
 
