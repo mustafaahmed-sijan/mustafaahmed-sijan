@@ -1,19 +1,46 @@
-### Hi there 👋! This is Sijan
-#### I am passionate programmer 
-![I am passionate programmer ](https://i.pinimg.com/564x/5d/c6/78/5dc678cff627e0b973eff7abc6f33532.jpg)
+<h4 align="left">👋 Hello, I'm Sijan,<br><br> a dedicated programmer skilled in HTML, CSS, JavaScript, Bootstrap, Tailwind, Python, and Java, with a passion for solving problems and creating innovative projects.</h4>
 
+###
 
-Skills: python/ C / C++ / Java
+<br clear="both">
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafaahmed-sijan&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="110" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mustafaahmed-sijan&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaahmed-sijan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="100" alt="languages graph"  />
+</div>
 
+###
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mustafaahmed-sijan)  
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mustafaahmed-sijan)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaahmed-sijan)](https://github.com/anuraghazra/github-readme-stats)
+###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafaahmed-sijan&show_icons=true&count_private=true)  
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mustafaahmed-sijan/mustafaahmed-sijan/output/snake.svg" alt="Snake animation" />
+
+###
