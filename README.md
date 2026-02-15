@@ -1,31 +1,4 @@
-# 🦸 One Punch Coder Mode
 
-<p align="center">
-  <img src="https://media.giphy.com/media/arbHBoiUWUgmc/giphy.gif" width="300"/>
-</p>
-
----
-
-<p align="center">
-  <marquee behavior="scroll" direction="right" scrollamount="8">
-    💻 ⚙️ 🧠 📊 🐍 🔢 📡 🖥️ 📈 🔥 💾 🧮 🧩 🚀
-  </marquee>
-</p>
-
----
-
-<p align="center">
-  <marquee behavior="scroll" direction="right" scrollamount="5">
-    🖥️ Data Structures → 🧍 Saitama  
-    ⚡ Algorithms → 🧍 Saitama  
-    🐍 Python → 🧍 Saitama  
-    📊 Numerical Methods → 🧍 Saitama  
-  </marquee>
-</p>
-
-<h3 align="center">
-💥 Training Hard Until I One-Punch Every Bug 💥
-</h3>
 <!-- ====================== FUTURISTIC GITHUB PROFILE README ====================== -->
 
 
