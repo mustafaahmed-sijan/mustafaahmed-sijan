@@ -1,4 +1,9 @@
 <!-- ====================== FUTURISTIC GITHUB PROFILE README ====================== -->
+# 🦆 CONTRIBUTION DUCK
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="300"/>
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Mustafa+Ahmed+(Sijan);CSE+Student+%7C+Problem+Solver;Python+%7C+Data+Structures+%7C+Competitive+Programming;Building+The+Future+With+Code+⚡" />
