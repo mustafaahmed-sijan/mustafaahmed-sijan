@@ -17,6 +17,30 @@
 ###
 
 <div align="left">
+
+
+  <!-- ================= HEADER SECTION ================= -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Mustafa+Ahmed+(Sijan);CSE+Student+%7C+Problem+Solver;Python+%7C+Data+Structures+%7C+Competitive+Programming;Building+Future+With+Code+⚡" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Field-Computer%20Science-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-00C853?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+
++ CSE Student passionate about problem solving
++ Strong foundation in Data Structures & Algorithms
++ Active Competitive Programmer (HackerRank / Codeforces)
++ Numerical Methods & Mathematical Computing Enthusiast
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
